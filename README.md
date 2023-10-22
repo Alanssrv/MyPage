@@ -5,9 +5,8 @@
 
 ## Figma base models
 [Personal Portfolio Website Template](https://www.figma.com/community/file/946944225031473055/personal-portfolio-website-template?searchSessionId=lo0u1kno-4zewzexp4dp)
-[PortfolioDesign](https://www.figma.com/community/file/1178239699550420594/portfoliodesign?searchSessionId=lo0u2pd4-doz5c6kyrcs)
 
-<a>asd</>
+[PortfolioDesign](https://www.figma.com/community/file/1178239699550420594/portfoliodesign?searchSessionId=lo0u2pd4-doz5c6kyrcs)
 
 ## Colors
 - Primary color: ![#fdc435](https://placehold.co/15x15/fdc435/fdc435.png) `#fdc435`
